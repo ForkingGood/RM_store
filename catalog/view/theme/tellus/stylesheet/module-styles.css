@@ -1,0 +1,19 @@
+/*--------------------------------------------------------------------------/
+* @Author		KulerThemes.com http://www.kulerthemes.com
+* @Copyright	Copyright (C) 2012 - 2013 KulerThemes.com. All rights reserved.
+* @License		KulerThemes.com Proprietary License
+/---------------------------------------------------------------------------*/
+
+/* CAROUSEL */
+/* Colors */
+.color-pink .jcarousel-container .jcarousel-next-horizontal:hover {
+	background-position: -330px center;
+}
+.color-pink .jcarousel-container .jcarousel-prev-horizontal:hover {
+	background-position: -120px center;
+}
+/* SLIDESHOW */
+/* Colors */
+.color-pink .nivo-directionNav a:hover {
+	background-color: #DF747A;
+}

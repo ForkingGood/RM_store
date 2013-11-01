@@ -1,0 +1,87 @@
+2013-09-17 7:35:45 - PHP Notice:  Undefined variable: login in C:\xampp\htdocs\RM_store\catalog\view\theme\default-black\template\common\footer.tpl on line 30
+2013-09-17 7:35:45 - PHP Notice:  Undefined variable: text_login in C:\xampp\htdocs\RM_store\catalog\view\theme\default-black\template\common\footer.tpl on line 30
+2013-09-17 7:35:45 - PHP Notice:  Undefined variable: languages in C:\xampp\htdocs\RM_store\catalog\view\theme\default-black\template\common\header.tpl on line 52
+2013-09-17 7:35:45 - PHP Notice:  Undefined variable: currencies in C:\xampp\htdocs\RM_store\catalog\view\theme\default-black\template\common\header.tpl on line 63
+2013-09-17 7:35:45 - PHP Notice:  Undefined variable: text_cart in C:\xampp\htdocs\RM_store\catalog\view\theme\default-black\template\common\header.tpl on line 88
+2013-09-17 7:35:45 - PHP Notice:  Undefined variable: text_items in C:\xampp\htdocs\RM_store\catalog\view\theme\default-black\template\common\header.tpl on line 89
+2013-09-17 7:35:45 - PHP Notice:  Undefined variable: filter_name in C:\xampp\htdocs\RM_store\catalog\view\theme\default-black\template\common\header.tpl on line 94
+2013-09-17 7:35:45 - PHP Notice:  Undefined variable: text_cart in C:\xampp\htdocs\RM_store\catalog\view\theme\default-black\template\common\header.tpl on line 107
+2013-09-17 8:24:51 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\featured.tpl on line 1
+2013-09-17 8:24:51 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\featured.tpl on line 1
+2013-09-17 8:24:51 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\latest.tpl on line 1
+2013-09-17 8:24:51 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\latest.tpl on line 1
+2013-09-17 8:25:42 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\featured.tpl on line 1
+2013-09-17 8:25:42 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\featured.tpl on line 1
+2013-09-17 8:25:42 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\latest.tpl on line 1
+2013-09-17 8:25:42 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\latest.tpl on line 1
+2013-09-17 8:26:47 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\featured.tpl on line 1
+2013-09-17 8:26:47 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\featured.tpl on line 1
+2013-09-17 8:26:47 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\latest.tpl on line 1
+2013-09-17 8:26:47 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\latest.tpl on line 1
+2013-09-17 8:26:55 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\featured.tpl on line 1
+2013-09-17 8:26:55 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\featured.tpl on line 1
+2013-09-17 8:26:55 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\latest.tpl on line 1
+2013-09-17 8:26:55 - PHP Notice:  Undefined variable: module_position in C:\xampp\htdocs\RM_store\catalog\view\theme\Zerocart-green\template\module\latest.tpl on line 1
+2013-09-17 21:44:05 - PHP Notice:  Undefined index: start in C:\xampp\htdocs\RM_store\catalog\controller\module\latest.php on line 34
+2013-09-17 21:44:05 - PHP Notice:  Undefined index: category in C:\xampp\htdocs\RM_store\catalog\controller\module\latest.php on line 36
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 33
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 41
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 41
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 42
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 42
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 43
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 43
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 46
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 46
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 47
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 47
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 48
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 48
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: protocol in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 51
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 52
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 52
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 55
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 55
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 56
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 56
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 57
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 57
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 58
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 58
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 59
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 59
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 60
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 60
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 61
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 61
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 62
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 62
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 63
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 63
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 64
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 64
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 65
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 65
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 66
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 66
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 67
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 67
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 128
+2013-09-17 21:45:54 - PHP Notice:  Undefined variable: themename in C:\xampp\htdocs\RM_store\catalog\view\theme\pinshop\template\common\header.tpl on line 128
+2013-09-17 21:46:44 - PHP Notice:  Undefined index: start in C:\xampp\htdocs\RM_store\catalog\controller\module\latest.php on line 34
+2013-09-17 21:46:44 - PHP Notice:  Undefined index: category in C:\xampp\htdocs\RM_store\catalog\controller\module\latest.php on line 36
+2013-09-17 22:07:39 - PHP Notice:  Undefined variable: profiles in C:\xampp\htdocs\RM_store\catalog\view\theme\default\template\product\product.tpl on line 58
+2013-09-17 22:11:16 - PHP Notice:  Undefined index: start in C:\xampp\htdocs\RM_store\catalog\controller\module\latest.php on line 34
+2013-09-17 22:11:16 - PHP Notice:  Undefined index: category in C:\xampp\htdocs\RM_store\catalog\controller\module\latest.php on line 36
+2013-09-17 22:12:11 - PHP Notice:  Undefined index: image_height in C:\xampp\htdocs\RM_store\catalog\controller\module\latest.php on line 27
+2013-09-17 22:12:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\RM_store\system\library\image.php on line 96
+2013-09-17 22:12:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\RM_store\system\library\image.php on line 104
+2013-09-17 22:12:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\RM_store\system\library\image.php on line 107
+2013-09-17 22:12:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\RM_store\system\library\image.php on line 109
+2013-09-17 22:12:11 - PHP Notice:  Undefined index: image_height in C:\xampp\htdocs\RM_store\catalog\controller\module\latest.php on line 27
+2013-09-17 22:12:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\RM_store\system\library\image.php on line 96
+2013-09-17 22:12:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\RM_store\system\library\image.php on line 104
+2013-09-17 22:12:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\RM_store\system\library\image.php on line 107
+2013-09-17 22:12:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\RM_store\system\library\image.php on line 109
+2013-10-27 1:22:10 - PHP Warning:  file_get_contents(http://localhost:1234/RM/): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in C:\xampp\htdocs\RM_store\catalog\view\theme\default\template\common\header.tpl on line 4

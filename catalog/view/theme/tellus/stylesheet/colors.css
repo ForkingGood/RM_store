@@ -1,0 +1,144 @@
+/*--------------------------------------------------------------------------/
+* @Author		KulerThemes.com http://www.kulerthemes.com
+* @Copyright	Copyright (C) 2012 - 2013 KulerThemes.com. All rights reserved.
+* @License		KulerThemes.com Proprietary License
+/---------------------------------------------------------------------------*/
+
+/* =============== PREDEFINED COLORS - PINK =============== */
+/* DEFAULT HTML - LINK STYLES */
+.color-pink a {
+	color: #DF747A;
+}
+/* DEFAULT HTML - BUTTONS */
+.color-pink .button:before {
+	background-color: #DF747A;
+}
+.color-pink .button:hover:before {
+	background-color: #866E5F;
+}
+/* HEADER */
+.color-pink #header #topbar {
+	background-color: #866E5F;
+}
+.color-pink #header #toppanel {
+	background-color: #685A4B;
+}
+.color-pink #topbar #currency a {
+	background-color: #DF747A;
+}
+.color-pink #topbar #currency a.current {
+	color: #DF747A;
+}
+.color-pink #header #cart.active .heading {
+	background-color: #DF747A;
+}
+.color-pink .mini-cart-info .name a {
+	color: #866E5F;
+}
+.color-pink .mini-cart-info .remove img {
+	background-color: #DF747A;
+}
+/* MENU */
+.color-pink .mainmenu > li:hover > a,
+.color-pink .mainmenu > li.active > a {
+	color: #DF747A;
+}
+.color-pink .mainmenu ul li a {
+	color: #685A4B;
+}
+.color-pink .mainmenu ul li:hover a,
+.color-pink .mainmenu ul li.active a {
+	color: #DF747A;
+}
+/* breadcrumb */
+.color-pink .breadcrumb a:last-child {
+	color: #DF747A;
+}
+/* treemenu */
+.color-pink .treemenu li a {
+	color: #866E5F;
+}
+.color-pink .treemenu li a:hover,
+.color-pink .treemenu li a.active {
+	color: #DF747A;
+}
+/* table */
+.color-pink .pagination .links b,
+.color-pink .pagination .links a:hover {
+	background-color: #DF747A;
+}
+/* BOX */
+.color-pink .box-heading > span:after {
+	background-color: #DF747A;
+}
+/* BOX - OUTSIDE CONTENT */
+.color-pink #column-left .box-heading,
+.color-pink #column-right .box-heading {
+	background: #866E5F;
+}
+/* box products */
+.color-pink .product-filter .display span {
+	color: #DF747A;
+}
+/* products list */
+.color-pink .product-list > div:hover {
+	border: 5px solid #866E5F;
+}
+.color-pink .product-list > div:hover .name a {
+	color: #866E5F;
+}
+.color-pink .product-list .cart a:before,
+.color-pink .product-list .wishlist a:before,
+.color-pink .product-list .compare a:before {
+	background-color: #866E5F;
+}
+.color-pink .product-list .cart a:hover:before,
+.color-pink .product-list .wishlist a:hover:before,
+.color-pink .product-list .compare a:hover:before {
+	background-color: #DF747A;
+}
+/* products grid */
+.color-pink .product-grid > div {
+	background-color: #866E5F;
+}
+.color-pink .product-grid .details {
+	background-color: #685A4B;
+}
+.color-pink .product-grid > div:hover .name a {
+	color: #DF747A;
+}
+.color-pink .product-grid .cart {
+	background-color: #DF747A;
+}
+.color-pink .product-grid .wishlist a:hover,
+.color-pink .product-grid .compare a:hover {
+	color: #685A4B;
+}
+.color-pink .product-grid .wishlist a:hover span {
+	background-image: url(../image/icons/icon-wishlist-brown.png);
+}
+.color-pink .product-grid .compare a:hover span {
+	background-image: url(../image/icons/icon-compare-brown.png);
+}
+/* box products - inside content */
+.color-pink .box-product .price div:before {
+	background-color: #DF747A;
+}
+/* Product */
+.color-pink .product-info .price div {
+	color: #DF747A;
+}
+/* CHECKOUT */
+.color-pink .checkout-heading {
+	background-color: #866E5F;
+}
+/* FOOTER */
+.color-pink #footer {
+	background: url(../image/backgrounds/bg-footer-brown.png);
+}
+.color-pink #footer h3 span:before {
+	background-color: #DF747A;
+}
+.color-pink #powered {
+	background: url(../image/backgrounds/bg-footer-brown.png);
+}
